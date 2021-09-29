@@ -55,3 +55,4 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 
 5.    **For checkout and get products functionality from shopify we use** [this link](https://github.com/shopify/js-buy-sdk)
+6.    **To get shopify data through node and graphql please visit this** [link](https://shopify.dev/api/storefront/getting-started)
