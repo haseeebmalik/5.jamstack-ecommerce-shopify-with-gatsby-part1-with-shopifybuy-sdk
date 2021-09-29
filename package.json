@@ -16,8 +16,13 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
     "gatsby": "^3.13.1",
+    "gatsby-plugin-image": "^1.14.0",
+    "gatsby-source-shopify": "^5.6.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "shopify-buy": "^2.12.0"
   }
 }
